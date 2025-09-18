@@ -1,4 +1,4 @@
-group = "burgers1312.revanced"
+group = "com.burgers1312.revanced"
 
 patches {
     about {

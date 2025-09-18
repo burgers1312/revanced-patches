@@ -1,4 +1,4 @@
-public final class app/revanced/patches/example/ExamplePatchKt {
-	public static final fun getExamplePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+public final class com/burgers1312/revanced/patches/splitwise/EnableSimpleFeaturesPatchKt {
+	public static final fun getEnableSimpleFeaturesPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
