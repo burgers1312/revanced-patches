@@ -10,14 +10,14 @@ val enableFeaturesPatch = bytecodePatch(
     compatibleWith("com.Splitwise.SplitwiseMobile")
 
     execute {
-        AdFeatureStatusGetEnabledFingerprint.method.addInstructions(
+        adFeatureStatusGetEnabledFingerprint.method.addInstructions(
             0,
             """
                 const/4 v0, 0x1
                 return v0
             """
         )
-        AdFeatureStatusGetVisibleFingerprint.method.addInstructions(
+        adFeatureStatusGetVisibleFingerprint.method.addInstructions(
             0,
             """
                 const/4 v0, 0x1
