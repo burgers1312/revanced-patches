@@ -1,3 +1,19 @@
+# 1.0.0-dev.1 (2025-11-11)
+
+
+### Bug Fixes
+
+* **splitwise:** Fix `patches.api` declarations ([db8850f](https://github.com/burgers1312/revanced-patches/commit/db8850f8b6555664709237a4e24cd0e07fc9f8f0))
+* **splitwise:** Fix `patches.api` declarations ([347799f](https://github.com/burgers1312/revanced-patches/commit/347799f727c130dbb421731fc2986266a1399140))
+* **splitwise:** Fix `patches.api` declarations ([c1f6b24](https://github.com/burgers1312/revanced-patches/commit/c1f6b243a031c969895ec2fbe5f4db0b14ea9a6f))
+* **splitwise:** Rename fingerprints ([ee713be](https://github.com/burgers1312/revanced-patches/commit/ee713bee466e72cc841946393b8f946aa38d013f))
+
+
+### Features
+
+* **splitwise:** Add "EnableFeaturesPatch" ([445b9b6](https://github.com/burgers1312/revanced-patches/commit/445b9b6d86f3eb2892a58accefdbdb19f80c9cf0))
+* **splitwise:** Add "EnableFeaturesPatch" ([#2](https://github.com/burgers1312/revanced-patches/issues/2)) ([4916b0a](https://github.com/burgers1312/revanced-patches/commit/4916b0a49ef025b948d548a3ef11424b5d65addf))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
